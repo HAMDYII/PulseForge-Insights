@@ -38,5 +38,5 @@ Note: This is a small sample view the deployed version on the provided link abov
 ![profile](./demo-images/profile-mb.jpg)
 ![projects](./demo-images/projects-mb.jpg)
 ![courses](./demo-images/courses-mb.jpg)
-![friends](./demo-images/friends-mb.jpg)
+![friends](./demo-images/friends.jpg)
 ![files](./demo-images/files-mb.jpg)
